@@ -1,0 +1,15 @@
+{
+
+  "name": "vercel-templates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mahdikhashan/vercel-express-template.git",
+  "author": "Mahdi Khashan <58775404+mahdikhashan@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
